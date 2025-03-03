@@ -15,7 +15,7 @@ CCTV-12,http://goo.bkpcp.top/mg/CCTV12
 CCTV-13,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226011
 CCTV-14,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225732
 CCTV-15,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226476
-CCTV-16,https://yunmei.tv/main/cctv-16.m3u8
+CCTV-16,http://goo.bkpcp.top/mg/cctv16
 CCTV-17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
 CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 
@@ -65,7 +65,6 @@ CHC动作电影,http://tvbox6.icu/tv/migu.php?id=chcdzdy
 淘电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8273&tk=e503191f8e20
 黑莓电影,http://36.105.100.208:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
 纬来电影,http://122.117.71.103:8554/http/61.222.53.250:8081/hls/69/811/ch35.m3u8
-经典电影,http://120.238.94.10:9901/tsfile/live/1040_1.m3u8
 星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV
 东森电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9901&tk=e640d0a1bf70
 东森超视,rtmp://f13h.mine.nu/sat/tv331
@@ -77,9 +76,7 @@ CCTV-5+,http://goo.bkpcp.top/mg/cctv5p
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
 五星体育,http://36.105.100.208:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 劲爆体育,http://tvbox6.icu/tv/migu.php?id=jbty
-爱体育,http://146.235.213.45:35455/itv/6000000006000290630.m3u8?cdn=wasusyt
 超级体育,http://home.wwang.pw:35455/itv/1000000001000009601.m3u8?cdn=ystenlive
-精品体育,http://146.235.213.45:35455/itv/1000000004000014634.m3u8?cdn=ystenlive
 辽宁体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd
 睛彩篮球,http://tvbox6.icu/tv/zb/zjctcc.php?id=344
@@ -95,4 +92,4 @@ CCTV-5+,http://goo.bkpcp.top/mg/cctv5p
 电竞天堂,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8479&tk=bd38c03a3ce1
 
 🕘️更新时间,#genre#
-2025-03-03 18:24:18,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+2025-03-04 06:21:50,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
