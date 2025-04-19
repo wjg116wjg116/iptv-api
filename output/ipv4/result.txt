@@ -8,7 +8,7 @@ CCTV-5+,https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8
 CCTV-6,https://api.olelive.com/dis/live/CCTV6HD/hls.m3u8
 CCTV-7,https://api.olelive.com/dis/live/CCTV7HD/hls.m3u8
 CCTV-8,https://api.olelive.com/dis/live/CCTV8HD/hls.m3u8
-CCTV-9,https://api.olelive.com/dis/live/CCTV9HD/hls.m3u8
+CCTV-9,http://t.live.cntv.cn/m3u8/cctv400.m3u8
 CCTV-10,https://api.olelive.com/dis/live/CCTV10HD/hls.m3u8
 CCTV-11,https://api.olelive.com/dis/live/CCTV11HD/hls.m3u8
 CCTV-12,https://api.olelive.com/dis/live/CCTV12HD/hls.m3u8
@@ -31,4 +31,4 @@ CCTV-5+,https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8
 🎮游戏频道,#genre#
 
 🕘️更新时间,#genre#
-2025-04-19 14:56:40,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?
+2025-04-19 18:42:32,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?
